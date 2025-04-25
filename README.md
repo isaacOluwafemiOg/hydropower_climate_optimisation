@@ -23,7 +23,7 @@ To run the notebook successfully, ensure the following variables are set to appr
 - `TRAIN_DATA_PATH`: Path to the training data CSV file.
 - `SAMPLE_SUBMISSION_PATH`: Path to the sample submission CSV file.
 
-The above train data and sample submission files can be found on the competition page: https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge/data
+The above train data and sample submission files can be found on the [competition page:](https://zindi.africa/competitions/ibm-skillsbuild-hydropower-climate-optimisation-challenge/data)
 
 The code is written in Python and runs on a CPU runtime in under **25 minutes**.
 
